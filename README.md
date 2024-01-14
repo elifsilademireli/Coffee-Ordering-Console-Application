@@ -2,6 +2,27 @@
 
 Bu proje, bir kahve sipariş uygulamasının temel özelliklerini simüle eden bir konsol uygulamasını içermektedir. Kullanıcı, giriş yapma, kahve seçimi, sepet yönetimi, sipariş ve ödeme gibi işlemleri gerçekleştirebilir. Proje, C# programlama dili kullanılarak geliştirilmiştir.
 
+
+## Proje Hakkında Genel Bilgi
+
+Bu proje, "Nesneye Yönelik Programlama" dersi kapsamında gerçekleştirilen bir vize projesidir. KahveSiparisUygulamasi adını taşıyan bu uygulama, kullanıcılara interaktif bir kahve siparişi deneyimi sunmayı hedefler. Sepet yönetimi, kampanya ve indirim bilgileri gibi özellikleri içerir.
+
+## Amaçlar
+
+- Kullanıcılara interaktif bir kahve siparişi deneyimi sunmak.
+- Sepet yönetimi ile kullanıcıların tercih ettikleri ürünleri düzenli bir şekilde yönetmelerini sağlamak.
+- Kampanya ve indirim bilgileri ile kullanıcılara avantajlar sunmak.
+
+## Proje İçeriği
+
+Proje, aşağıdaki temel özelliklere odaklanmaktadır:
+
+- **Kahve Siparişi:** Kullanıcılar, kahve menüsünden seçtikleri ürünleri belirleyebilir ve sepete ekleyebilirler.
+- **Sepet Yönetimi:** Kullanıcılar, sepetlerini görüntüleyebilir, içeriklerini düzenleyebilir ve siparişlerini tamamlayabilirler.
+- **Kampanya ve İndirimler:** Kullanıcılara belirli durumlarda kampanya ve indirim avantajları sunulur.
+- **Kullanıcı Dostu Arayüz:** Konsol tabanlı bir uygulama olup, kullanıcı dostu bir arayüzle etkileşim sağlar.
+
+
 ## Temel Özellikler
 
 - Müşteri profili oluşturma.
@@ -20,12 +41,6 @@ Bu proje, bir kahve sipariş uygulamasının temel özelliklerini simüle eden b
 
 - Konsol tabanlı bir uygulama olarak kullanıcı ile etkileşim.
 - Nesne tabanlı programlama prensiplerine uygun kodlama.
-
-## Proje Detayları
-
-- Kullanıcı dostu arayüz.
-- Sepet ve sipariş yönetimi.
--	Kampanya ve indirim bilgileri.
 
 ## Proje Mimarisi ve Akış Şeması
 
