@@ -168,7 +168,6 @@ Siparişi onaylar ve ödemesini gerçekleştirir.
 - Switch-Case,
 - If Else döngüleri,
 - Do While Döngüleri,
-- While Döngüleri
 - Foreach,
 - For Döngüleri,
 - Exceptions (Try..Catch)
