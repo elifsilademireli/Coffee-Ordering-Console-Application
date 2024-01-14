@@ -158,7 +158,7 @@ Siparişi onaylar ve ödemesini gerçekleştirir.
 5. **Sorun: İndirim Kullanım Sınırlaması:**
    - **Çözüm:** Kullanıcının belirli bir indirim kodunu kaç kez kullanabileceği kontrol edilir. Kullanıcı, izin verilen sınırları aşarsa, hata mesajı ile bilgilendirilir.
 
-### Koddaki Temel Prensip ve Yapılar
+## Koddaki Temel Prensip ve Yapılar
 - Encapsulation,
 - Inheritance,
 - Polymorphism,
