@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\bin\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.exe
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\bin\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.deps.json
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\bin\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.runtimeconfig.json
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\bin\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.dll
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\bin\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.pdb
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.dll
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\refint\Kahve Siparişi Konsol Uygulaması.dll
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.pdb
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\Kahve Siparişi Konsol Uygulaması.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Kahve Siparişi Konsol Uygulaması\Kahve Siparişi Konsol Uygulaması\obj\Debug\net6.0\ref\Kahve Siparişi Konsol Uygulaması.dll
